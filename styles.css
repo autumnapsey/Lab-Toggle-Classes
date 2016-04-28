@@ -1,5 +1,23 @@
+body {
+	background-color: #EEEEEE;
+	font-family: Helvetica, Arial, sans serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+	text-align: center;
+}
+
 li {
+	padding-top: 5px;
+	text-align: center;
 	min-width: 200px;
 	min-height: 50px;
+	background-color: #999999;
+	display: inline-block;
 }
 
